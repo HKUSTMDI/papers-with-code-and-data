@@ -1,4 +1,4 @@
-# papers-with-code
+# Papers with Code and Data
 
 ### Pathologist-level interpretable whole-slide cancer diagnosis with deep learning <https://github.com/zizhaozhang/nmi-wsi-diagnosis>
 
